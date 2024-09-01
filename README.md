@@ -11,16 +11,3 @@ A new Flutter project.
 ![jobboo 8](https://github.com/user-attachments/assets/5fcc063f-f2b5-4421-8bf9-653d479884e5)
 ![jobboo 9](https://github.com/user-attachments/assets/36adfe47-33b1-48be-bc28-0b47f5d05642)
 
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
