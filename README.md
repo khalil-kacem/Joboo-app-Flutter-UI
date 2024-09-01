@@ -4,6 +4,7 @@ A new Flutter project.
 
 These are the interfaces that i developped : 
 ![joboo 1](https://github.com/user-attachments/assets/2b2e7cf6-e9b9-42c5-a4c5-598eca9aa25d)
+![jobboo 3](https://github.com/user-attachments/assets/b798a5c6-d765-4333-8432-972a588766a3)
 
 
 ## Getting Started
